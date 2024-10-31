@@ -1,0 +1,6 @@
+<!--pages/a/a.wxml-->
+<view>
+
+<navigator class="a" url="/pages/b/a"  >个人信息</navigator>
+
+</view>

@@ -1,0 +1,3 @@
+<!--pages/home/a.wxml-->
+<text selectable>123</text>
+<view >{{tytle >=5 ? 'a' : 'b'}}</view>

@@ -1,0 +1,6 @@
+/* pages/a/a.wxss */
+.a{
+   color: dodgerblue;
+   text-decoration: underline;
+   align-items: center;
+}
